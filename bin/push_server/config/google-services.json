@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "920996545793",
+    "firebase_url": "https://asansolcollege-6bdb4.firebaseio.com",
+    "project_id": "asansolcollege-6bdb4",
+    "storage_bucket": "asansolcollege-6bdb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920996545793:android:96b1f2ed879b0daa",
+        "android_client_info": {
+          "package_name": "in.co.boonsoftware.rkmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920996545793-102lohh91tsuou2eo5skg9tvjijbrs2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55EwyPsCVP-_ASCrBiVyW7JibGTU4sm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

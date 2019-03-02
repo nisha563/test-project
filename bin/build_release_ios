@@ -1,0 +1,2 @@
+sudo ionic cordova build ios --release
+

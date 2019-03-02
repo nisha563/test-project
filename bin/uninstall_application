@@ -1,0 +1,3 @@
+#sudo ionic cordova run android --emulator
+package_name=in.co.boonsoftware.rkmvp
+adb uninstall ${package_name}

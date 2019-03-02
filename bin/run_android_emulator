@@ -1,0 +1,4 @@
+#sudo ionic cordova run android --emulator
+filename=android-debug.apk
+sudo ionic cordova build android
+adb install platforms/android/build/outputs/apk/${filename}

@@ -1,0 +1,2 @@
+~/Library/Android/sdk/emulator/emulator -avd `emulator -list-avds | head -n1`
+

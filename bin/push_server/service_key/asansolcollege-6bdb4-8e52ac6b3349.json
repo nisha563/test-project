@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asansolcollege-6bdb4",
+  "private_key_id": "8e52ac6b33492400c5a89f6113ee05e5d5ed010e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5cXsf2mvOJUVE\n2EFVgLECBRGEXddZC2menHJ7oe0yacwRaeQl+545Sb0uVy9KLKz8XOdBe3HdFFPL\nTtCSzIc4RQ62jYCN0cuEGv9uybJQNUQF3G9tIluSX6G6aJUgiFgbdflq5VPG26pn\nhHY9FOKHQU89YFFQVtzfHRYy5W+s9+n+24/sxB3nKnBGbn125GxtdiOK5/b6M236\nw+Vc/nr+5zjemZbqvR7edKYYmecGlFKNXvZhFuDsMsBHxp8tAdhaJyFh2dwhEr3m\nglBIjJ1DFSn/WeWPiTAwM61FIeVjEk3KieCa4JcuOTKyboHdB1Cu74JgZRowzhQS\nT5qvWBD9AgMBAAECggEAG2Jl0gkxVJ1OB9cUJXoIvulxsfAg+LjF4ugWbdRhJcnY\nGpWJB+TgHh9ErQmvOuRdsodOQm4Qx/AUWa2sq5OWv5lPDWfYR9kRv9M0Ii+YbIjD\nypvH5pVQHCLmy+iyu5L2yS4C5CVeWZDJrq9caIkOKfaxKrlE+LittX2NmtF6ds+w\nUg5handBJQaIqP239LAt00tBc+qNs8NMnRL76hiXZRh1skjezYasIxXr7iGtxZ3X\n7OnyrUtr0drCRMS7poBmrgGcg5ScdG0qMcMgif2wDNu5thktLq7/LS1W6/0MAvlV\nhNcwzY30Y15iUKjJtv5sWRoNzoaLfVxsEtwUxpU8LwKBgQDbwLFHD+BxKMZmOD2c\ny11bSQbvBfeVq87KE3eqLp8tVGD4u5zbkB/9f+9f4G15eVpJ7wk6XyjdcUheoM5l\n9EiUVJS7NJFhJDSOEVmOzHV3KI+2IcwFX8rHh1F/fbDwnoiu82SjPYHl7lJ1zyFg\nRYWbrS1R0PbVtTLMdG2bl8JiRwKBgQDYCAjEGVG+bs361yEk9Xd9nDv5U/Qo3dJC\n7b2fjUl7BbRgHYXpILlLEHVnDdRafUymhuSNRfd0ObDv7vjz/o7v+OuGXllBLOyK\n9B8vc8UFwXizZ2UqzHNhf/GjNHb926AobmuJe7eL/fChaWcEnWN9VmmgL7wo91ov\n4JLSSVzwmwKBgGcB7BdjWdGxS06fDkJxEVG46YchROzjnAsdFPqw3+xfoRT23JAO\n/u/VCF/o02gdejUt1yWFdaJXd5Tjy9v+pgbhntYhzgO69OejOle1f1pbqQG21euu\n+16MD6ezQz2HEorvjDz4l+svy3dtoDeAXyCaDKRNT2bdiPJNoRNOD9ABAoGBAM9G\nvipxZLZEGIyCF4Ifp5u06PJsNAt18kVXWKaa6JMKQSwrh43MYRz92LedVE/Sg1YQ\nfYBzTl+M7xD3iJSLfVgQzOLq6daYJQmZ+8YK3VKNdKMmJLJw4o/9M7r1Huqp7Lx+\nXd3W/6BpcZVdzYNnA8uBuu0AgBgKZNUlM5pi27LbAoGAHFpbUqylb6fR5SsyQi+p\nwoZFBTvqp74bSxaldCyxGbJ6u46KXssAo4TIYPClXDEYxXLn+kp9sy0GeUelSrC5\nwIIcfkoCMbsDGsvIcolWtLziXn8koKX4Zws3d5WZDfu5DhLqV0UxGk7e2dNogZcq\nJmlQSCAClUtXv3Ym2jIiY3c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-llq56@asansolcollege-6bdb4.iam.gserviceaccount.com",
+  "client_id": "105492122274390581311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-llq56%40asansolcollege-6bdb4.iam.gserviceaccount.com"
+}
